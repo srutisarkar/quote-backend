@@ -1,0 +1,3 @@
+id: "20200417085532.95610489"
+project-name: quote-back
+stack: kabanero/java-spring-boot2:0.3
